@@ -1,0 +1,25 @@
+# Unreal Engine generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Project files (regenerated from .uproject)
+*.xcodeproj
+*.xcworkspace
+
+# OS files
+Desktop.ini
+.DS_Store
+Thumbs.db
