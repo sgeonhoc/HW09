@@ -8,6 +8,16 @@
 
 ---
 
+## 🎬 시연 영상
+
+▶️ **[시연 영상 보기 (Demo/demo.mp4)](Demo/demo.mp4)**
+
+<video src="https://raw.githubusercontent.com/sgeonhoc/HW09/main/Demo/demo.mp4" controls width="600"></video>
+
+> GitHub에서 위 플레이어가 보이지 않으면 링크를 클릭하면 영상이 재생됩니다.
+
+---
+
 ## 🎮 게임 규칙
 
 - 게임 시작 시 **서버**가 1~9 사이 **중복되지 않는 3자리 숫자**를 생성합니다. (예: `386`, `594`)
